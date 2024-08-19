@@ -1,0 +1,28 @@
+nav{
+    box-shadow: 4px 4px 40px rgba(182, 158, 158, 0.823);
+}
+
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-family: Arial;
+    font-weight: 500;
+
+}
+.mobile li a{
+  
+    margin: 6px 0;
+    display: inline-block;
+    background-color: whitesmoke
+
+}
+footer ul li a{
+    color: gainsboro;
+   display: inline-block;
+   margin: 10px 0;
+    
+}
